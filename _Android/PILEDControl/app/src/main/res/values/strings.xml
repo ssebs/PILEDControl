@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PILEDControl</string>
+    <string name="server_ip">You will send data to: \nssebs.ddns.net on port: 7788</string>
+    <string name="server_off">If you don\'t get a message back, the server is off.</string>
+    <string name="submit">Submit</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="spam_the_button">Spam the button</string>
+</resources>
